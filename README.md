@@ -15,7 +15,7 @@
 
 ### Demo Screeshots
 
-![Portfolio Desktop Demo](growatal.png "Desktop Demo")
+![Portfolio Desktop Demo](grow.png "Desktop Demo")
 
 ### Prerequisites
 
